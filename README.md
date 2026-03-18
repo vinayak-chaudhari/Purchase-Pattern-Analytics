@@ -1,13 +1,6 @@
 # 🛒 Purchase Pattern Analytics | SQL, Python, Power BI | Retail Transaction Dataset
 ## Market Basket Analysis using Apriori Algorithm
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
----
-
 ## 📌 Problem Statement
 In a retail environment, the challenge is to leverage **Market Basket Analysis (MBA)** on a Transaction dataset to unveil relationships between products. By conducting EDA, data cleaning, and implementing the **Apriori algorithm**, the objective is to extract valuable insights — identifying frequently co-occurring products and deriving actionable recommendations to enhance sales strategies and customer satisfaction.
 
